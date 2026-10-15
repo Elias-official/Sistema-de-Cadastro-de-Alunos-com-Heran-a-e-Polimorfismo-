@@ -8,8 +8,6 @@ Este projeto foi desenvolvido como atividade acadêmica da disciplina de Program
 
 **Aluno:** Elias Teixeira Santana Junior
 
-**RA:** 0984496
-
 O projeto faz parte da minha jornada de aprendizado em desenvolvimento de software e representa uma etapa da minha evolução com Java. Novas melhorias poderão ser implementadas conforme o aprofundamento nos conceitos estudados.
 
 ## Sobre o Projeto
